@@ -1,0 +1,10 @@
+{
+  "name": "meteorstar-relay",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Сервер онлайн-игры Meteor Star",
+  "main": "relay.js",
+  "scripts": { "start": "node relay.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.18.0" }
+}
